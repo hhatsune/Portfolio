@@ -10,7 +10,7 @@ To run TimeZoneCalculator.java, TimeZoneList.txt AND TreeNode.java are required.
 This repo includes txt file which name is TimeZoneList.txt. The file has Region name(Asia, Europe, United States etc.), and UTC offset of each city.
 If you add city(ies), please follow rules below. 
 - Add city and UTC offset in appropriate section. (Ex. If you want to add New York, it should be @United States section)
-- Write city name first, and write UTC offset on the SAME LINE. 
+- Write city name first, then write UTC offset on the SAME LINE. 
 - There should be one space between city name and UTC offset.
 - If UTC offset is positive, DO NOT write +(plus). Please write -(negative) if it is negative.
 - UTC offset must have at least one demical place.
