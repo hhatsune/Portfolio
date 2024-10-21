@@ -24,7 +24,7 @@ This program cannot cope with Summer Time(Daylight Saving Time). Please wait unt
 
 
 ## JaCoCo Report
-file:///Users/hatsunehirano/Documents/GitHub/finalcs2-hhatsune/report/default/index.html#dn-d
+
 
 <img width="1440" alt="スクリーンショット 2023-12-01 0 53 14" src="https://github.com/cs-olympic/finalcs2-hhatsune/assets/129793305/a264e416-bb3d-42dd-8a99-aba5855b5e6c">
 
