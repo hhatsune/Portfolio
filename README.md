@@ -3,7 +3,7 @@ This Java program calculates destination's time from origin's time.
 To run TimeZoneCalculator.java, TimeZoneList.txt AND TreeNode.java are required. Please make sure you have them and TimeZoneCalculator.java.
 
 ## Note
-I do mention that other files than TimeZone.txt, TimeZoneCalculator.java, TreeNode.java, and TimeZoneCalculatorUML.txt were written by my professor, Dr. Adrian Veliz.
+I do mention that other files than README.md, TimeZone.txt, TimeZoneCalculator.java, TreeNode.java, and TimeZoneCalculatorUML.txt were written by my professor, Dr. Adrian Veliz.
 
 ## About Editing TimeZont List(TimeZoneList.txt)
 This repo includes txt file which name is TimeZoneList.txt. The file has Region name(Asia, Europe, United States etc.), and UTC offset of each city.
