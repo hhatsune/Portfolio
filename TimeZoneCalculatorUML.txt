@@ -1,0 +1,74 @@
+@startuml
+
+class TimeZOneCalculator *-- class TreeNode
+class TimeZoneCalculator{
+
++ {static} Queue<String> queueplacenames
++ {static} Queue<Double> desUTCoffset
++ {static} Map<String, Double> UTCoffsetsdata
++ {static} String showcity
++ {static} String convertfrom
++ {static} ArrayList<String> chosenlist
++ {static} boolean addcity
++ {static} ArrayList<String> availablecity
+
++ main : void
++ storeUTCoffsetdata(Scanner, Map<String,Double>) : void
++ askAddMoreCity() : boolean
++ getDestinationUTCQueue(Map<String, Double>, Queue<String>) : void
++ getOriginUTCoffset(String, Map<String, Double>) : double
++ getWaitlistQueue(Scanner) : Queue<String>
++ getConvertFrom(Scanner) : String
++ getResult(Queue<Double>, double) : Map<String, Double>
++ askTime(String) : double
++ askDoAgain() : boolean
+}
+
+class TreeNode<E>{
+
+- data : E
+- left : TreeNode
+- right : TreeNode
+
++ TreeNode(E) : TreeNode
++ TreeNode(E, TreeNode, TreeNode) : TreeNode
++ getData() : E
++ getLeft() : TreeNode
++ getRight(): TreeNode
++ isLeaf() : boolean
+
+{static} String placename;
+
+{static} ArrayList<String> US_AtoM 
+{static} ArrayList<String> US_NtoZ 
+{static} ArrayList<String> Canadalist 
+{static} ArrayList<String> Mexicolist 
+{static} ArrayList<String> SouthAmericalist
+
+{static} ArrayList<String> Europe_AtoG 
+{static} ArrayList<String> Europe_HtoM
+{static} ArrayList<String> Europe_NtoT 
+{static} ArrayList<String> Europe_UtoZ
+
+{static} ArrayList<String> MiddleEastlist 
+{static} ArrayList<String> SmallAsialist 
+
+{static} ArrayList<String> Australialist 
+{static} ArrayList<String> NewZealandlist 
+{static} ArrayList<String> Africa_AtoG 
+{static} ArrayList<String> Africa_HtoM 
+{static} ArrayList<String> Africa_NtoT 
+{static} ArrayList<String> Africa_UtoZ 
+
++ BuildTreeNode() : void
++ getCityName(ArrayList<String>) : String
++ createArrayList(Scanner) : void
++ sortAndIndex(ArrayList<String>) : ArrayList<String>
++ addIndex(ArrayList<String>) : ArrayList<String>
++ sortAndIndexAll() : void
+
+}
+
+
+
+@enduml

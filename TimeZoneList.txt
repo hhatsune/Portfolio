@@ -1,0 +1,192 @@
+@United States
+Seattle  -7.0
+Portland  -7.0
+San Francisco -7.0
+Los Angels -7.0
+Las Vegas -7.0
+Dallas -5.0
+Huston -5.0
+Nashville -5.0
+Chicago -5.0
+WashingtonD.C. -4.0
+New York -4.0
+Boston -4.0
+San Antonio -5.0
+
+@Canada
+Vancouver -7.0
+Tronto -4.0
+Montreal -4.0
+Calgary -6.0
+Ottawa -4.0
+Edmonton -6.0
+Mississauga -4.0
+Winnipeg -5.0
+Brampton -4.0
+Hamilton -4.0
+
+@Mexico
+Mexico City -6.0
+Ecatepec -6.0
+Guadalajara -5.0
+Puebla -5.0
+Ciudad Juárez -6.0
+Chihauhua -6.0
+
+@Central America
+Guatemala City -6.0
+Belmopan -6.0
+Belize City -6.0
+Tegucigalpa -6.0
+San Salvador -6.0
+Managua -6.0
+San José -6.0
+Panama City -5.0
+
+
+@South America
+Buenos Aires -3.0
+Brasília -3.0
+Rio de Janeiro -3.0
+Lima -5.0
+La Paz -4.0
+Sucre -4.0
+Santiago -3.0
+Bogotá -5.0
+Cayenne -3.0
+Georgetown -4.0
+Asunción -3.0
+King Edward Point -2.0
+Montevideo -3.0
+Caracas -4.0
+
+@Europe
+Lisbon 1.0
+Madrid 2.0
+Barcelona 2.0
+Paris 2.0
+Lyon 2.0
+London 1.0
+Amsterdam 2.0
+Bruxelles 2.0
+Luxemburg 2.0
+Zurich 2.0
+Geneva 2.0
+Rome 2.0
+Vienna 2.0
+Budapest 2.0
+Warszawa 2.0
+Helsinki 3.0
+Stockholm 2.0
+Oslo 2.0
+Moscow 4.0
+Berlin 2.0
+Venice 2.0
+Firenze　2.0
+Mirano 2.0
+Frankfurt 2.0
+Prague 2.0
+
+ 
+
+@Middle East
+Istambul 3.0
+Jerusalem 3.0
+Mascut 4.0
+Kabul 0.0
+ 
+
+@Asia
+Tokyo 9.0
+Taipei 8.0
+Bejing 8.0
+Seoul 9.0
+Shanghai 8.0
+Singapore 0.0
+Manila 0.0 
+Bangkok 0.0
+Jakarta 0.0 
+New Delhi 0.0
+Hong Kong 8.0
+Macau 8.0
+Hanoi 7.0
+Ho Chi Minh City 7.0
+ 
+
+@Australia
+Camberra 11.0
+Sydney 11.0
+Melbourne 11.0 
+Perth 8.0
+Cairns 10.0
+Gold Coast 10.0
+Brisbene 10.0
+Hobart 11.0
+Adelaide 10.30
+Darwin 9.3
+ 
+
+@New Zealand
+Wellington 13.0
+Auckland 13.0
+
+
+
+@Africa
+Kampala 3.0
+Cape Town 2.0
+Cairo 2.0
+Lagos 1.0
+Kinshasa 1.0 
+Nairobi 3.0
+Abidjan 0.0
+Accra 0.0
+Asmera 3.0
+Addis Ababa 3.0
+Abuja 1.0
+Algiers 1.0
+Antananarivo 3.0
+Victoria 4.0
+Windhoek 2.0
+Kigali 2.0
+Cotonou 1.0
+Conakry 0.0
+São Tomé 0.0
+Djibouti City 3.0
+Juba 2.0
+Dakar 0.0
+Tunis 2.0
+Tripoli 2.0
+Niamey 1.0
+Nouakchott 0.0
+Gaborone 2.0
+Bamako 0.0
+Harare 2.0
+Hargeisa 3.0
+Khartoum 2.0
+Bangui 1.0
+Bissau 0.0
+Bujumbura 2.0
+Praia 1.0
+Brazzaville 1.0
+Freetown 0.0
+Pretoria 2.0
+Port Louis 4.0
+Maseru 2.0
+Maputo 2.0
+Malabo 1.0
+Mbabane 2.0
+Mogadishu 3.0
+Moroni 3.0
+Monrovia 0.0
+Yaounde 1.0
+Rabat 1.0
+Libreville 1.0
+Lilongwe 2.0
+Luanda 1.0
+Lukasa 2.0
+Lome 0.0
+Ouagadougou 0.0
+N'Djamena 1.0
+ 
+
