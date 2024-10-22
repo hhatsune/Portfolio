@@ -1,5 +1,5 @@
 /*@author Hatsune Hirano
- *@version 1.0.0
+ *@version 1.0.1
  */
 
 import java.util.*;
@@ -83,6 +83,11 @@ public class TimeZoneCalculator{
 
 		calculate = askDoAgain();
 	}
+
+	//calculate == false
+	//print tips or quotes
+
+	
 		
 	}
 
