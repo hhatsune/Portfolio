@@ -1,17 +1,17 @@
 # TimeZoneCalculater
-This Java program calculates destination's time from origin's time.
-To run TimeZoneCalculator.java, TimeZoneList.txt AND TreeNode.java are required. Please make sure you have them and TimeZoneCalculator.java.
+This Java program calculates the destination's time from the origin's time.
+To run TimeZoneCalculator.java, TimeZoneList.txt, AND TreeNode.java are required. Please make sure you have them and TimeZoneCalculator.java.
 
-## Note
-- I do mention that other files than README.md, TimeZone.txt, TimeZoneCalculator.java, TreeNode.java, and TimeZoneCalculatorUML.txt were written by my professor, Dr. Adrian Veliz.
-- These entire programs were written as final project of CS 143 class.
+## Mention
+I do want to mention that my professor, Dr. Adrian Veliz, wrote other files besides README.md, TimeZone.txt, TimeZoneCalculator.java, TreeNode.java, and TimeZoneCalculatorUML.txt.
+- These entire programs were written as a final project of the CS 143 class.
 
 ## About Editing TimeZone List(TimeZoneList.txt)
-This repo includes txt file which name is TimeZoneList.txt. The file has Region name(Asia, Europe, United States etc.), and UTC offset of each city.
-If you add city(ies), please follow rules below. 
-- Add city and UTC offset in appropriate section. (Ex. If you want to add New York, it should be @United States section)
-- Write city name first, then write UTC offset on the SAME LINE. 
-- There should be one space between city name and UTC offset.
+This repo includes a text file named TimeZoneList.txt. The file has the Region name(Asia, Europe, United States, etc.) and the UTC offset of each city.
+If you add city(ies), please follow the rules below. 
+- Add city and UTC offset in the appropriate section. (Ex. If you want to add New York, it should be @United States section)
+- Write the city name first, then write UTC offset on the SAME LINE. 
+- There should be one space between the city name and UTC offset.
 - If UTC offset is positive, DO NOT write +(plus). Please write -(negative) if it is negative.
 - UTC offset must have at least one demical place.
 
