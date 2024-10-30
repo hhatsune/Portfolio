@@ -20,11 +20,13 @@ This program cannot cope with Summer Time(Daylight Saving Time). Please wait unt
 
 
 ## Class Diagram
+If you cannot see the image, you can see the same one in the ClassDiagram file.
 
 ![image](https://github.com/cs-olympic/finalcs2-hhatsune/assets/129793305/bc86b3e8-7e6e-4618-8c50-a44979d9b82a)
 
 
 ## JaCoCo Report
+If you cannot see the images below, go to the JaCoCo Report file.
 
 
 <img width="1440" alt="スクリーンショット 2023-12-01 0 53 14" src="https://github.com/cs-olympic/finalcs2-hhatsune/assets/129793305/a264e416-bb3d-42dd-8a99-aba5855b5e6c">
